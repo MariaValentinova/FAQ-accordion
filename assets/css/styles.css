@@ -16,7 +16,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url("/assets/images/background-pattern-desktop.svg");
+    background-image: url("/images/background-pattern-desktop.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-color: var(--Light-pink);

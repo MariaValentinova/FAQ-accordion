@@ -128,7 +128,7 @@ h1.card-title {
     body {
         max-width: 375px;
         max-height: 100vh;
-        background-image: url("/assets/images/background-pattern-mobile.svg");
+        background-image: url("/images/background-pattern-mobile.svg");
         background-size: auto;
     }
 

@@ -126,7 +126,7 @@ h1.card-title {
 
 @media screen and (max-width:375px) {
     body {
-        max-width: 375px;
+        max-width: 400px;
         max-height: 100vh;
         background-image: url("../images/background-pattern-mobile.svg");
         background-size: auto;

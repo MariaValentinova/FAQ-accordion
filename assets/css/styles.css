@@ -32,10 +32,10 @@ main {
 }
 
 .card {
-    width: 52%;
+    width: 40%;
     height: auto;
     background-color: var(--White);
-    padding: 1rem;
+    padding: 1.1rem;
     border-radius: 0.8rem;
     box-shadow: -0.4rem 0.4rem 1rem 1rem hsla(292, 16%, 49%, 0.15);
 }

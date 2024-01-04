@@ -32,7 +32,8 @@ main {
 }
 
 .card {
-    width: 43%;
+    width: 100%;
+    max-width: 37.5rem;
     height: auto;
     background-color: var(--White);
     padding: 1rem;
@@ -51,8 +52,9 @@ main {
 }
 
 .accordion-body {
-    color: hsl(292, 16%, 49%, 0.8);
-    font-size: 0.8rem;
+    color: var(--Grayish-purple);
+    opacity: 1;
+    font-size: 1rem;
     font-weight: 600;
     padding: 0 0 1.5rem 0;
 }
@@ -90,11 +92,10 @@ h1.card-title {
     padding: 1.2rem 0;
     color: var(--Dark-purple);
     font-weight: 700;
-    font-size: 1.1rem;
+    font-size: 1.125rem;
     cursor: pointer;
     transition: 0.3;
     outline: none !important;
-    /* Elimina el borde en cualquier situación */
     box-shadow: none !important;
 }
 
